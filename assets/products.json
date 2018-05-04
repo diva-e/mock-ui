@@ -1,0 +1,27 @@
+[
+  {
+    "token": "__TEST-TOKEN__",
+    "description": "MEDION® AKOYA® E6435, Intel® Pentium® 4415U, Windows 10 Home, 39,6 cm (15,6“) FHD Display, 6 GB RAM, 128 GB SSD, 1.5 TB HDD, Notebook",
+    "photo": "https://medion.scene7.com/is/image/Medion/30021525_PIC-H_Dfront?id=nxljK2&fmt=jpg&fit=constrain,1&wid=463&hei=348"
+  },
+  {
+    "token": "__TEST-TOKEN__",
+    "description": "MEDION® ERAZER® X7842, Intel® Core™ i7-6700HQ, Windows 10 Home, 43,9 cm (17,3’’) FHD Display, 8 GB RAM, 128 GB SSD, 1.5TB HDD, Gaming Notebook",
+    "photo": "https://medion.scene7.com/is/image/Medion/30019875_PIC-H_Dfront?id=WJCjS3&fmt=jpg&fit=constrain,1&wid=423&hei=348"
+  },
+  {
+    "token": "__TEST-TOKEN__",
+    "description": "MEDION® ERAZER® X7855 Intel® Core™ i7-7700HQ, Windows 10 Home, 43,9 cm (17,3’’) FHD Display, GTX 1060, 16 GB RAM, 256 GB SSD, Gaming Notebook",
+    "photo": "https://medion.scene7.com/is/image/Medion/30019875_PIC-H_Dfront?id=WJCjS3&fmt=jpg&fit=constrain,1&wid=423&hei=348"
+  },
+  {
+    "token": "__TEST-TOKEN__",
+    "description": "MEDION® AKOYA® E6415, Intel® Core™ i3-5005U, Windows 10 Home, 39,6 cm (15,6\") FHD Display, 8 GB RAM, 1 TB HDD, Notebook",
+    "photo": "https://medion.scene7.com/is/image/Medion/30018841_PIC-H_Dfront?id=s1sjs2&fmt=jpg&fit=constrain,1&wid=485&hei=348"
+  },
+  {
+    "token": "__TEST-TOKEN__",
+    "description": "MEDION® ERAZER® X7853, Intel® Core™ i7-7820HK, Windows 10 Home, 43,9 cm (17,3’’) FHD Display, GTX 1070, 32 GB RAM, 512 GB SSD, Gaming Notebook",
+    "photo": "https://medion.scene7.com/is/image/Medion/30021462_PIC-H_Dfront?id=b3Fjp3&fmt=jpg&fit=constrain,1&wid=555&hei=274"
+  }
+]

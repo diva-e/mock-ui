@@ -1,0 +1,196 @@
+{
+  "GENERAL": {
+    "GERMANY": "Deutschland",
+    "SERVICE_PORTAL": "Serviceportal"
+  },
+
+  "HEADER": {
+    "GUARANTEE_LINK": {
+      "TEXT": "<strong>2 Jahre Garantie</strong> - Jetzt überprüfen",
+      "HREF": "https://www.medion.com/de/service/kontakt/"
+    },
+    "SUPPORT_LINK": {
+      "HEADER": "Kostenloser Support",
+      "TEXT": "Ansprechpartner finden",
+      "HREF": "https://www.medion.com/de/service/kontakt/"
+    },
+    "LOGIN": {
+      "HEADER": "Mein Konto",
+      "LOGIN": "Login",
+      "REGISTER": "Registrieren",
+      "MOBILE_HEADER": "Werde myMEDION Mitglied"
+    }
+  },
+
+  "NAVIGATION": [
+    {
+      "text": "Hilfe & Services",
+      "href": "help"
+    },
+    {
+      "text": "Status checken",
+      "href": "status"
+    },
+    {
+      "text": "Kontakt",
+      "href": "1"
+    },
+    {
+      "text": "Navigation 4",
+      "href": "2"
+    },
+    {
+      "text": "Navigation 5",
+      "href": "3"
+    }
+  ],
+
+  "HOME": {
+    "LOGIN": {
+      "HEADLINE": "Login Page",
+      "NAME": "User Name",
+      "PASSWORD": "Password",
+      "LOGIN_BTN": "Login"
+    }
+  },
+
+  "PRODUCTS": {
+    "HEADLINE": "Products"
+  },
+
+  "FOOTER_CONTACTS": {
+    "BONUS": {
+      "VALUE": "5€",
+      "TEXT": "Gutschein sichern"
+    },
+    "HEADLINE": "Bleib in Kontakt mit uns!",
+    "ADVANTAGES": [
+      "Bestens informiert",
+      "Exklusive Gutscheine und Rabatte",
+      "Gratis & jederzeit kündbar"
+    ],
+    "EMAIL": {
+      "PLACEHOLDER": "Deine E-Mailadresse",
+      "ADDRESS": "contact@medion.de"
+    },
+    "SOCIAL_MEDIAS": {
+      "TITLE": "Du findest uns auch hier"
+    }
+  },
+
+  "FOOTER": {
+    "TOP_BANNERS": [
+      {
+        "text": "2 Jahre Garantie"
+      },
+      {
+        "text": "14 Tage Gratis Rückversand"
+      },
+      {
+        "text": "Kostenlose Bestellhotline:",
+        "linkText": "0800 / 000000000",
+        "href": "tel:0800000000000"
+      }
+    ],
+
+    "LINK_LIST": [
+      {
+        "title": "Service",
+        "items": [
+          {
+            "text": "FAQ",
+            "href": "https://www.medion.com/"
+          },
+          {
+            "text": "Fragen zur Bestellung",
+            "href": "https://www.medion.com/"
+          },
+          {
+            "text": "Garantiebedingungen",
+            "href": "https://www.medion.com/"
+          },
+          {
+            "text": "Partnerprogramm",
+            "href": "https://www.medion.com/"
+          }
+        ]
+      },
+      {
+        "title": "Über Medion",
+        "items": [
+          {
+            "text": "Unternehmen",
+            "href": "https://www.medion.com/"
+          },
+          {
+            "text": "Investor Relations",
+            "href": "https://www.medion.com/"
+          },
+          {
+            "text": "Karriere",
+            "href": "https://www.medion.com/"
+          },
+          {
+            "text": "International",
+            "href": "https://www.medion.com/"
+          }
+        ]
+      },
+      {
+        "title": "Rechtliches",
+        "items": [
+          {
+            "text": "AGB",
+            "href": "https://www.medion.com/"
+          },
+          {
+            "text": "Datenschutz",
+            "href": "https://www.medion.com/"
+          },
+          {
+            "text": "Nutzungsrichtlinien",
+            "href": "https://www.medion.com/"
+          },
+          {
+            "text": "Impressum",
+            "href": "https://www.medion.com/"
+          }
+        ]
+      }
+    ],
+    "SECURE_BUYING": {
+      "TITLE": "Sicher einkaufen"
+    },
+    "BOTTOM_LINKS": [
+      {
+        "text": "ALDI TALK",
+        "href": "https://www.medion.com/"
+      },
+      {
+        "text": "ALDI LIFE",
+        "href": "https://www.medion.com/"
+      },
+      {
+        "text": "ALDI FOTO",
+        "href": "https://www.medion.com/"
+      },
+      {
+        "text": "MEDION Outlet",
+        "href": "https://www.medion.com/"
+      }
+    ],
+    "COPYRIGHT": "© 2006 - 2018 MEDION. All Rights Reserved.",
+    "CTA_BUTTONS": [
+      {
+        "text": "Zuletzt angesehen",
+        "href": "https://www.medion.com/"
+      },
+      {
+        "text": "Produktvergleich",
+        "href": "https://www.medion.com/"
+      }
+    ]
+  },
+
+  "TEST_HTML_COMPONENT": "<h1>Ihr Kontakt zu MEDION</h1><div class=\"box\"> <a href=\"http://community.medion.com/\" target=\"_blank\"><img alt=\"\" src=\"https://www.medion.com/images/community_80977.jpg\"></a> <div class=\"btn_none\" name=\"btn_none\"> <a href=\"\" onclick=\"\" class=\"btn_main\"></a> <img src=\"https://www.medion.com/images/btn_green_right_65952.gif\" alt=\"\"> </div></div><div style=\"clear: both\"></div><div class=\"box\"> <p>Sie haben ein technisches Problem und unter den online angebotenen Services - Häufig gestellte Fragen, Treiber-Downloads, Handbücher, MEDION Service Community&nbsp;- keine Lösung gefunden? Sie suchen nach passendem Zubehör oder wünschen weiterführende Informationen?</p><div class=\"btn_none\" name=\"btn_none\"> <a href=\"\" onclick=\"\" class=\"btn_main\"></a> <img src=\"https://www.medion.com/images/btn_green_right_65952.gif\" alt=\"\"> </div></div><div style=\"clear: both\"></div><div class=\"box\"> <h3>Ihre Kontaktmöglichkeiten:</h3> <div class=\"space\"></div><div class=\"email\"> <a id=\"email\" href=\"/mailing/service_de.php?msn=&amp;id=&amp;fn=&amp;ln=&amp;st=&amp;hn=&amp;pc=&amp;ct=&amp;em=&amp;pd=&amp;pl=\" onclick=\"return hs.htmlExpand(this,{objectType: 'iframe', targetY: 'logo -10px', preserveContent: false})\"> <img class=\"lfloat\" alt=\"\" src=\"https://www.medion.com/images/icon_01_81999.png\"> </a> <p>Sie haben Fragen zu unseren Produkten oder brauchen konkrete Hilfe zu Ihren erworbenen Geräten, dann kontaktieren Sie uns per E-Mail</p></div><div class=\"space\"></div><div class=\"hotline\"> <a id=\"hotline\" href=\"../_lightbox/hotline.php?msn=&amp;id=&amp;fn=&amp;ln=&amp;st=&amp;hn=&amp;pc=&amp;ct=&amp;em=&amp;pd=&amp;pl=\" onclick=\"return hs.htmlExpand(this,{objectType: 'iframe'})\"> <img class=\"lfloat\" alt=\"\" src=\"https://www.medion.com/images/icon_02_82000.png\"> </a> <p>Sie haben ein technisches Problem, Fragen zum Status Ihrer Onlinebestellung oder eine längere Anfrage? Unsere Servicemitarbeiter helfen Ihnen von Montag bis Freitag von 7:00 bis 23:00 Uhr und von Samstag, Sonntag und an Feiertagen von 10:00 - 18:00 Uhr</p></div><div class=\"space\"></div><div class=\"dvp\"> <a id=\"dvp\" href=\"../_lightbox/dvp.php\" onclick=\"return hs.htmlExpand(this,{objectType: 'iframe'})\"> <img class=\"lfloat\" alt=\"\" src=\"https://www.medion.com/images/icon_03_82001.png\"> </a> <p>Sie haben Fragen zu Ihrem Bestell- oder Reparaturstatus? Dann hilft Ihnen das MEDION SPRACH PORTAL. Bitte halten Sie Ihre Kundennummer, Auftragsnummer und Postleitzahl griffbereit</p></div><div class=\"space\"></div><div class=\"callback\"> <a id=\"callback\" href=\"/mailing/service_de.php?cb=1&amp;msn=&amp;id=&amp;fn=&amp;ln=&amp;st=&amp;hn=&amp;pc=&amp;ct=&amp;em=&amp;pd=&amp;pl=\" onclick=\"return hs.htmlExpand(this,{objectType: 'iframe', targetY: 'logo -10px', preserveContent: false})\"> <img class=\"lfloat\" alt=\"\" src=\"https://www.medion.com/images/icon_callback_85941.png\"> </a> <p>Nutzen Sie die Möglichkeiten unseres kostenfreien und komfortablen Rückrufservices.</p></div><div class=\"space\"></div><div class=\"kundencenter\"> <a id=\"kundencenter\" href=\"../_lightbox/kundencenter.php\" onclick=\"return hs.htmlExpand(this,{objectType: 'iframe'})\"> <img class=\"lfloat\" alt=\"\" src=\"https://www.medion.com/images/icon_04_82002.png\"> </a> <p>Manches lässt sich am angenehmsten von Angesicht zu Angesicht regeln.<br>Kommen Sie doch einfach zu uns. Im MEDION Kundencenter steht Ihnen unser Fachpersonal gerne beratend zur Seite</p></div><div class=\"space\"></div></div>"
+}
